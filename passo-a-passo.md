@@ -2,9 +2,9 @@
 
 
 
-[] - Organizar pastas do projeto
-[] - Criar Estrutura base Html
-[] - Criar Predefinicoes de Estilos
+[X] - Organizar pastas do projeto
+[X] - Criar Estrutura base Html
+[X] - Criar Predefinicoes de Estilos
 [] - Criar Estilização Base
 
 
